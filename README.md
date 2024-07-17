@@ -24,7 +24,7 @@ Using several deep learning and NLP techniques such as Transformers, data prepro
 #### Dataset
 - **Creation**: The custom dataset used for training the breaking news classification model was created using web scraping techniques.
 - **Web Scraping**: Employed Beautiful Soup for extracting data from various news websites.
-- **Kaggle**: The dataset is available on [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/yomnamuhammad/breaking-news)]).
+- **Kaggle**: The dataset is available on [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/yomnamuhammad/breaking-news)]). https://www.kaggle.com/datasets/yomnamuhammad/breaking-news 
 
 ### Headline Generation
 - **Objective**: Create compelling and informative titles for each article.
